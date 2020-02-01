@@ -1,3 +1,5 @@
+# A simple game of 0 and Xs
+
 theBoard = {'top-l': ' ', 'top-m': ' ', 'top-r': ' ',
             'mid-l': ' ', 'mid-m': ' ', 'mid-r': ' ',
             'bot-l': ' ', 'bot-m': ' ', 'bot-r': ' ', }
