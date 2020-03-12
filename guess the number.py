@@ -1,4 +1,5 @@
 import random
+#this program is a guessing game, Guess a number and it will tell you if the guess is correct
 
 def gen(guessed):
     if int(guessed) > num:
